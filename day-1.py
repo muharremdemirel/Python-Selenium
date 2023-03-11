@@ -4,7 +4,7 @@
 #boolean (bool) --> Mantıksal veri tipidir.True veya False değerini alabilmektedir.
 
 #Kodlama.io sitesinde özelikle string veri tipinin kullanıldığını görüyoruz .
-# Arama çubuklarında aramak istediğimiz kursun karşılığında çıkan sonuç  buna örnektir.
+#Arama çubuklarında aramak istediğimiz kursun karşılığında çıkan sonuç  buna örnektir.
 #Bunun yanında diğer veri tiplerine dair örnekler de mevcutur.
 #Örneğin kurs sonunda sertifikaya hak kazanma durumunu sorgulayan boolean veri tipleri bir diğer örnektir. 
 
