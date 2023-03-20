@@ -6,9 +6,6 @@ web tasarımcılarına sayfalar ve uygulamalar için yapı profilleri, bağlant�
 alıntılar, paragraflar ve başlıklar oluşturmalarında yardımcıdır.
 
 
------------------------------------------------------------------------------------------
-
-
 En Çok Kullanılan HTML Kodları:
 
 * <!DOCTYPE html>: Tüm HTML belgeleri bu kod ile başlamak zorundadır. Bu kod aslında sayfanın 
@@ -27,6 +24,10 @@ etiketleri arasında olmak zorundadır.
 * <meta charset=”utf-8″>: HTML kodunun Türkçe karakter desteği dahil olmak üzere pek çok dil 
 setiiçerdiğini belirtir.
 
+
+-----------------------------------------------------------------------------------------------------
+
+
 HTML Locators Nedir?
 
 -> Locators(Konumlandırıcı), Selenium IDE'ye hangi web tabanlı objeler üzerinde çalışması gerektiğini
@@ -42,7 +43,7 @@ Bazı Locators çeşitleri:
 * XPath
 
 
------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 
 
 Seleniumda aksiyonlar:
